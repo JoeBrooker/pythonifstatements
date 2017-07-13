@@ -1,5 +1,6 @@
 
 answer=input("Do you like rabbits?")
-
-if answer == "no" :
-	print("Well, then you're a cunt")
+if answer == "yes" :
+	print ("Lappyyyyyyyyyyyyy")
+else :
+	print ("Well, then you're a cunt")
